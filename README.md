@@ -28,6 +28,16 @@ This project builds an **AI-powered diagnostic support system** that classifies 
 
 ---
 
+## 🎯 What This Project Demonstrates
+- End-to-end ML pipeline development
+- Deep learning model comparison & evaluation
+- Handling imbalanced medical datasets
+- Model explainability using Grad-CAM
+- Research + implementation integration
+- Strong Python and data handling skills
+
+---
+
 # 🧠 Models Implemented
 This project evaluates multiple architectures under a unified pipeline:
 
@@ -86,31 +96,46 @@ This improves **trust and transparency** for medical AI deployment.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages & Frameworks
-- Python
-- PyTorch
-- OpenCV
-- Albumentations
-- Scikit-learn
+### Programming & Core Libraries
+- Python  
+- NumPy  
+- Pandas  
 
-### Deep Learning Models
-- EfficientNet
-- ResNet50
-- MobileNetV3
+### Deep Learning & Machine Learning
+- PyTorch  
+- Scikit-learn  
+- Transfer Learning  
+- Computer Vision  
 - Vision Transformers (ViT)
 
-### Visualization & Analysis
-- Matplotlib
-- Seaborn
-- Grad-CAM
+### Implemented Architectures
+- EfficientNet-B0  
+- ResNet50  
+- MobileNetV3  
+- Custom CNN  
+- Dual-Branch Vision Transformer  
 
+### Image Processing & Augmentation
+- OpenCV  
+- Albumentations  
+- CLAHE Enhancement  
+
+### Visualization & Explainable AI
+- Matplotlib  
+- Seaborn  
+- Grad-CAM (Explainable AI)
+
+### Tools & Environment
+- Jupyter Notebook  
+- VS Code  
+- Git & GitHub  
 ---
 
 # 📁 Repository Structure
 ```
-Liver-Fibrosis-Detection/
+Deep-Learning-Frameworks-for-Liver-Fibrosis-Detection/
 │
 ├── liverFibrosisStaging.ipynb
 ├── requirements.txt
