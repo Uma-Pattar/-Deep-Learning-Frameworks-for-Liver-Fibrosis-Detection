@@ -1,5 +1,5 @@
 # 🧠 Deep Learning Frameworks for Liver Fibrosis Detection  
-### Comparative CNN & Vision Transformer Study using Ultrasound (F0–F4)
+### Comparative CNN & Vision Transformer Study using Ultrasound Images(F0–F4)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)
